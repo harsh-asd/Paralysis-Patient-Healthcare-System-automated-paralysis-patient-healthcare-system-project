@@ -1,0 +1,27 @@
+Components List :
+
+Transmitter Circuit :
+1. Arduino Nano ....................... 1 Pc
+2. Accelerometer ...................... 1 Pc
+3. RF Transmitter ..................... 1 Pc
+4. LED ................................ 4 Pcs
+5. Reasistance ( 330 Ohm ) ............ 4 Pcs
+6. Battery ( 9 Volt ) ................. 1 Pcs
+
+Reaceiver Circuit:
+1. Arduino Nano ....................... 1Pc
+2. RF Receiver ........................ 1Pc
+3. 16x2 LCD ........................... 1Pc
+4. GSM Module ( Must Read Note ) ...... 1Pc
+5. Buzzer ............................. 1Pc
+6. Potentiometer ( 10K )............... 1Pc
+7. Power Adaptor ( 7.5 to 12 Volt)..... 1Pc
+
+
+Note : Two type of GSM Modules are available, 
+1. With Voltage regulator
+2. Without Voltahge regulator (Mostly SIM800L)
+
+If you are using using 1st type of GSM Module (With Voltage regulator), then use given circuit diagram, No correction needed.
+
+If you are using using 2nd type of GSM Module (Without Voltage regulator), then DO NOT USE given circuit diagram, because it will kill the GSM Module, must use Voltage regulator with GSM Module.
